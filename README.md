@@ -1,5 +1,5 @@
 # datasciencecoursera
-hellow-world
+hello-world
 ===========
 
 Hi there!
